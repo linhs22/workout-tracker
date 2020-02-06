@@ -1,4 +1,4 @@
-# progressive
+# Workout Tracker
 
 ## Description
 
